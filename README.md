@@ -4,6 +4,10 @@ Beam is a simple tool that allows members to write posts to share across your or
 
 <img src="public/images/screenshot.png" width="690" />
 
+# Try to setup
+
+Try to use Vercel setup, a push is required to deploy.
+
 ## Setup
 
 ### Install dependencies
